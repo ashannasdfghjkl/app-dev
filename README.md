@@ -46,4 +46,4 @@ This line is incredibly powerful because it encapsulates the core message of the
 
 ---
 
-*Thank you for reading about my favorite series!*
+*Task Performance in Software Design Prefinals*
